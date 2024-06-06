@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\repos\bai7\bai7\bin\Debug\net8.0\bai7.exe
+C:\Users\Laptop\source\repos\bai7\bai7\bin\Debug\net8.0\bai7.deps.json
+C:\Users\Laptop\source\repos\bai7\bai7\bin\Debug\net8.0\bai7.runtimeconfig.json
+C:\Users\Laptop\source\repos\bai7\bai7\bin\Debug\net8.0\bai7.dll
+C:\Users\Laptop\source\repos\bai7\bai7\bin\Debug\net8.0\bai7.pdb
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.dll
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\refint\bai7.dll
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.pdb
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\bai7.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\bai7\bai7\obj\Debug\net8.0\ref\bai7.dll

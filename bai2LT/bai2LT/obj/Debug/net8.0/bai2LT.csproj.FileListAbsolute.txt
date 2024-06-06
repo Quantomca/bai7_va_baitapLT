@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\bin\Debug\net8.0\bai2LT.exe
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\bin\Debug\net8.0\bai2LT.deps.json
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\bin\Debug\net8.0\bai2LT.runtimeconfig.json
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\bin\Debug\net8.0\bai2LT.dll
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\bin\Debug\net8.0\bai2LT.pdb
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.dll
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\refint\bai2LT.dll
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.pdb
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\bai2LT.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\bai2LT\bai2LT\obj\Debug\net8.0\ref\bai2LT.dll
