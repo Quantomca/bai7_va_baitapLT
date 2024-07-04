@@ -1,0 +1,7 @@
+D:\BTChuong6_1\BTChuong6_1\bin\Debug\BTChuong6_1.exe.config
+D:\BTChuong6_1\BTChuong6_1\bin\Debug\BTChuong6_1.exe
+D:\BTChuong6_1\BTChuong6_1\bin\Debug\BTChuong6_1.pdb
+D:\BTChuong6_1\BTChuong6_1\obj\Debug\BTChuong6_1.csproj.AssemblyReference.cache
+D:\BTChuong6_1\BTChuong6_1\obj\Debug\BTChuong6_1.csproj.CoreCompileInputs.cache
+D:\BTChuong6_1\BTChuong6_1\obj\Debug\BTChuong6_1.exe
+D:\BTChuong6_1\BTChuong6_1\obj\Debug\BTChuong6_1.pdb

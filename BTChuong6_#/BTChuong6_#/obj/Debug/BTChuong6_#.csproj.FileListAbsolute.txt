@@ -1,0 +1,2 @@
+D:\BTChuong6_#\BTChuong6_#\obj\Debug\BTChuong6_#.csproj.AssemblyReference.cache
+D:\BTChuong6_#\BTChuong6_#\obj\Debug\BTChuong6_#.csproj.CoreCompileInputs.cache
